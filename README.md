@@ -8,6 +8,7 @@ This repository contains all code, data, and documentation for the Kiffiya Weekl
 - `event_data/`: Contains CSV files of major events affecting oil prices.
 - `notebooks/`: Jupyter notebooks for analysis and modeling.
 - `scripts/`: Python scripts for data processing and modeling.
+- `reports/`: Project reports and deliverables.
 - `dashboard/`: Interactive dashboard for stakeholders.
 - `references/`: Key academic and industry references.
 
